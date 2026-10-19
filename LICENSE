@@ -1,0 +1,60 @@
+本リポジトリには、ライセンス条件の異なる 2 種類のコンテンツが含まれます。
+This repository contains two kinds of content under different terms.
+
+================================================================================
+1. 試験問題 PDF（IPA_FE_AP_午前問題_PDF/ 配下の *.pdf）
+   Exam question PDFs (*.pdf under IPA_FE_AP_午前問題_PDF/)
+================================================================================
+
+Copyright (c) 独立行政法人情報処理推進機構（IPA）
+Copyright (c) Information-technology Promotion Agency, Japan (IPA)
+
+これらの PDF の著作権は IPA に帰属し、IPA は著作権を放棄していません。
+本リポジトリの管理者はこれらの PDF について権利を有しておらず、下記 2. の
+MIT License はこれらの PDF には適用されません。
+
+本リポジトリでは、IPA が公表している次の利用条件に基づき、IPA 配布物を
+無改変のまま再配布しています。
+
+  - 公表済みの過去問題の使用には、法令に特別の定めがある場合を除き、
+    許諾や使用料は不要
+  - 出典（年度・期・試験区分・時間区分・問番号など）を明記すること
+    例：出典：平成31年度 春期 基本情報技術者試験 午前 問1
+  - 問題を一部改変した場合はその旨を明記すること
+
+  参照：IPA「試験に関するよくある質問」 https://www.ipa.go.jp/shiken/faq.html
+
+各ファイルの出典は ATTRIBUTION.md を参照してください。利用者がこれらの
+PDF や問題を利用する場合も、上記の IPA の条件に従ってください。
+
+These PDFs are copyrighted by IPA. IPA has not waived its copyright. They are
+redistributed here unmodified under IPA's published terms of use. The MIT
+License below does NOT apply to them. See ATTRIBUTION.md for the source of
+each file.
+
+================================================================================
+2. 上記以外（README、ATTRIBUTION.md、取得一覧.csv 等のメタデータ・ドキュメント）
+   Everything else (README, ATTRIBUTION.md, 取得一覧.csv and other metadata)
+================================================================================
+
+MIT License
+
+Copyright (c) 2026 denchi-45
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
